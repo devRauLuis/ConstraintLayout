@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="oulodev">oulodev</string>
+    <string name="username">Username</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login_button">Continue</string>
+    <string name="log_in">Log in</string>
+    <string name="reset_password">Reset password</string>
+</resources>
